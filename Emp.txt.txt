@@ -1,0 +1,3 @@
+Here is the employee Salary Details
+Name:Riya Patil Salary:35000
+Name:Tina More Salary:45000
